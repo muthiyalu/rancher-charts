@@ -1,0 +1,21 @@
+questions:
+# Zookeeper Configurations
+
+-variable: namespaceCreate
+  default: "true"
+  description: "Create Namespace to deploy pulsar?"
+  label: Create Namespace 
+  type: boolean
+  group: "General"
+-variable: persistence
+  default: "true"
+  description: "Persistence Enabled? "
+  label: Is Persistence Enabled? 
+  type: boolean
+  group: "General"
+-variable: prometheus_persistence
+  default: "true"
+  description: "Is Prometheus Persistence Enabled? "
+  label:  Prometheus Persistence  
+  type: boolean
+  group: "General"
