@@ -1,6 +1,4 @@
 questions:
-# Zookeeper Configurations
-
 -variable: namespaceCreate
   default: "true"
   description: "Create Namespace to deploy pulsar?"
