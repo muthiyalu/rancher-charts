@@ -1,5 +1,4 @@
 apiVersion: v1
-
 description:  Apache Pulsar Helm chart for Kubernetes
 name: pulsar
 version: 2.2.0
@@ -17,4 +16,3 @@ maintainers:
 - name: Ravikumar Sanjay Muthiyalu
   email: ravsanmut@gmail.com
 icon: https://pulsar.apache.org/img/pulsar.svg
-
