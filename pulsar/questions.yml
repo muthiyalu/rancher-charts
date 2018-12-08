@@ -1,0 +1,10 @@
+categories:
+- Message Broker
+questions:
+- variable: namespace
+  default: "true"
+  description: "Use default Docker images"
+  label: Use Default Images
+  type: boolean
+  group: "Container Images"
+
